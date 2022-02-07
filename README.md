@@ -1,4 +1,4 @@
-### Calculadora IMC
+## Calculadora IMC
 
 La función de este proyecto es poder calcular el peso ponderal o IMC(Índice de Masa Corporal) de una persona.<br><br>
 <img src="https://github.com/Eifro/calculadora-imc/blob/master/Assets/img/ejemplo0.PNG" width="800px" height="400"><br><br>
